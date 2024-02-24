@@ -1,4 +1,4 @@
-To elaborate on your notes for adding to a repository, you might be aiming to create a README file that explains how to set up and run a Python script for performing a port scan on authorized ports. Here's a more detailed version that could be used for such a README:
+README:
 
 ---
 
