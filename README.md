@@ -2,7 +2,7 @@ README:
 
 ---
 
-# Port Scanner in Python
+
 
 👋 Hi, I'm @Vjay04. Welcome to this simple yet powerful Python script that allows you to perform port scans on specific ports you are authorized to scan. This tool is designed for network administrators, security professionals, and anyone interested in network security testing, strictly within the bounds of authorization and legal compliance.
 
